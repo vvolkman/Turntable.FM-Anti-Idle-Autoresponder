@@ -14,13 +14,9 @@
 
     // aliases
     var nameAliases = [
-        'coreyballou',
-        'Dr. awkwa .rD',
-        'Corey Ballou',
-        'CoreyBallou',
-        'coreyb',
-		'Dr.',
-		'awkward'
+        'volt',
+        'voltman',
+        'Volt'
     ];
 
     // general name aliases
@@ -31,7 +27,7 @@
         'you all',
         'ya\'ll',
         'you guys',
-		'you'
+	'you'
     ];
 
     // idle aliases
@@ -61,16 +57,16 @@
         'i\'m here',
         'what?',
         'nope :)',
-		'whatup {{NICKNAME}}',
-		'mos def',
+	'whatup {{NICKNAME}}',
+	'mos def',
         'not here',
-		'sup {{NICKNAME}}',
-		'definitely not here',
+	'sup {{NICKNAME}}',
+	'definitely not here',
         'yes.. right here {{NICKNAME}}',
-		'yepp {{NICKNAME}}',
-		'{{NICKNAME}}, right here',
-		'{{NICKNAME}}, still here',
-		'wink wink'
+	'yepp {{NICKNAME}}',
+	'{{NICKNAME}}, right here',
+	'{{NICKNAME}}, still here',
+	'wink wink'
     ];
 
     // max idle time that users will accept
